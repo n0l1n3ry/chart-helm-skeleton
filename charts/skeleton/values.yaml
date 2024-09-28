@@ -1,0 +1,4 @@
+---
+# Default values which be used by parents chart Helms
+service:
+ port: 80
